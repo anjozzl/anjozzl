@@ -1,0 +1,4 @@
+- 👋 ola meu nome é @anjozzl
+- :+1: meu gmail de contato é guilherme.dalfovo@escola.p.gov.br
+- 👀 eu estou intersado em aprender a progamar e novas linguagens
+- 🌱 eu estou a aprendendo a programar recentemente a linguagem de javascript e scratch
